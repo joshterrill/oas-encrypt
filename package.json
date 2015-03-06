@@ -1,0 +1,26 @@
+{
+  "name": "oascrypt",
+  "version": "1.0.1",
+  "description": "a simple substitution encryption module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/joshuaterrill/oasCrypt.git"
+  },
+  "keywords": [
+    "oasis",
+    "laboratory",
+    "encryption",
+    "decryption",
+    "substitution"
+  ],
+  "author": "Joshua Terrill <joshterrill.dev@gmail.com> (http://joshuaterrill.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuaterrill/oasCrypt/issues"
+  },
+  "homepage": "https://github.com/joshuaterrill/oasCrypt"
+}
