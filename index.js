@@ -16,6 +16,6 @@ exports.encode = function(word) {
     i++;
   }
   
-  console.log(result);
+  return result;
   
 }
